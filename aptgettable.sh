@@ -1,5 +1,6 @@
 #!/bin/sh
 
+apt-get upgrade
 apt-get install -y vim \
                    ed \
                    git \
