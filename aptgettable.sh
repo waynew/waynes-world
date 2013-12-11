@@ -71,3 +71,5 @@ apt-get install -y vim \
                    vlock \
                    wget \
                    zsh
+
+exit 0
