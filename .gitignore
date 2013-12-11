@@ -34,3 +34,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# vim swaps
+*.swp
+*.swo
+
+# vagrant
+.vagrant
