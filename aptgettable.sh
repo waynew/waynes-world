@@ -54,7 +54,6 @@ apt-get install -y vim \
                    python-lxml \
                    python-six \
                    python-tk \
-                   python3.3 \
                    rsync \
                    ruby1.8 \
                    sed \
