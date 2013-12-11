@@ -24,7 +24,6 @@ apt-get install -y vim \
                    gnupg \
                    gnupg-agent \
                    grep \
-                   bz2 \
                    gzip \
                    gzip \
                    htop \
@@ -33,7 +32,7 @@ apt-get install -y vim \
                    irssi \
                    java-common \
                    javascript-common \
-                   keypassx \
+                   keepassx \
                    keychain \
                    less \
                    linux-headers-generic \
@@ -59,7 +58,7 @@ apt-get install -y vim \
                    rsync \
                    ruby1.8 \
                    sed \
-                   awk \
+                   gawk \
                    sqlite3 \
                    sqlitebrowser \
                    sqlite \
